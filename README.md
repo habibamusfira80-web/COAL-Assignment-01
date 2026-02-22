@@ -2,8 +2,8 @@
 
 ## Computer Organization and Assembly Language
 
-**Name:** [Apna Naam Yahan Likhein]  
-**Roll Number:** [Apna Roll No. Yahan Likhein]  
+**Name:** [HABIBA]  
+**Roll Number:** [24-ARID-751]  
 **Submission Date:** February 22, 2026
 
 ## Assignment Overview

@@ -1,0 +1,20 @@
+; Program to add two numbers
+.MODEL SMALL
+.STACK 100H
+.DATA
+    NUM1 DB 5
+    NUM2 DB 3
+    RESULT DB ?
+.CODE
+MAIN PROC
+    MOV AX, @DATA
+    MOV DS, AX
+    
+    MOV AL, NUM1
+    ADD AL, NUM2
+    MOV RESULT, AL
+    
+    MOV AH, 4CH
+    INT 21H
+MAIN ENDP
+END MAIN
